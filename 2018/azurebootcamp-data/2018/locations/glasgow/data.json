@@ -10,13 +10,13 @@
   },
 
   "Callout": {
-    "Text": "Grab your free ticket today!",
-    "Link": "https://gaug-globalbootcamp2018.eventbrite.co.uk",
+    "Text": "Call for speakers!",
+    "Link": "https://sessionize.com/gaug-global-bootcamp-2018/",
     "Type": "default"
   },
   "Callspeakers": {
-    "Text": "Call for speakers!",
-    "Link": "https://sessionize.com/gaug-global-bootcamp-2018/",
+    "Text": "Grab your free ticket today!",
+    "Link": "https://gaug-globalbootcamp2018.eventbrite.co.uk",
     "Type": "default"
   },  
   "Organizers": [
