@@ -1,0 +1,53 @@
+﻿{
+  "Event": {
+    "Date": "21-04-2018"
+  },
+  "Location": {
+    "Name": "Glasgow",
+    "Latitude": 38.7610556,
+    "Longitude": -9.0947077,
+    "Address": "Collabor8te"
+  },
+
+  "Callout": {
+    "Text": "Inscreva-se para este evento!",
+    "Link": "https://gaug-globalbootcamp2018.eventbrite.co.uk",
+    "Type": "default"
+  },
+  "Callspeakers": {
+    "Text": "Call for speakers!",
+    "Link": "https://sessionize.com/gaug-global-bootcamp-2018/",
+    "Type": "default"
+  },  
+  "Organizers": [
+    {
+      "Name": "Sarah Lean",
+      "Social": {
+	    "Website": "http://www.techielass.com"
+        "Email": "sarah@gaug.com"
+      }
+    }
+  ],
+  "Sponsors": [
+  ],
+  "Prizes": [
+      {
+      "ImageUrl": "https://raw.githubusercontent.com/punitganshani/azurebootcamp-data/master/2017/locations/singapore/comingsoon.png",
+      "Link": "#",
+      "Name": "Coming Soon"
+    }
+  ],
+"Tracks": [
+    {
+      "Name": "",
+      "Sessions": [
+        {
+          "SessionId": "",
+          "Time": "",
+          "Title": ""
+        }
+      ]
+    }
+  ]
+}
+
