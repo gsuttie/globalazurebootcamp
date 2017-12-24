@@ -71,7 +71,7 @@
         },
         {
           "SessionId": "Common2",
-          "Time": "8:30 AM - 9:00 AM",
+          "Time": "10:30 AM - 10:45 AM",
           "Title": "Introduction and Welcome",
           "Room": "TBC",
           "Speaker": {
@@ -211,11 +211,6 @@
     {
       "Name": "IT Pro Track",
       "Sessions": [
-        {
-          "SessionId": "Common1",
-          "Time": "8:00 AM - 8:30 AM",
-          "Title": "Registration"
-        },
         {
           "SessionId": "Common2",
           "Time": "8:30 AM - 9:00 AM",
