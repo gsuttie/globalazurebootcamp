@@ -9,7 +9,7 @@
     "Address": "22 Montrose Street Glasgow"
   },
   "Social": {
-    "Meetup": "https://gaug-globalbootcamp2018.eventbrite.co.uk",
+    "Eventbrite": "https://gaug-globalbootcamp2018.eventbrite.co.uk",
     "Facebook": "https://www.facebook.com/GlasgowAzureUG"
   },
   "Callout": {
@@ -66,19 +66,19 @@
       "Sessions": [
         {
           "SessionId": "Common1",
-          "Time": "8:00 AM - 8:30 AM",
+          "Time": "10:00 AM - 10:30 AM",
           "Title": "Registration"
         },
         {
           "SessionId": "Common2",
           "Time": "8:30 AM - 9:00 AM",
-          "Title": "Keynote",
-          "Room": "22CF12",
+          "Title": "Introduction and Welcome",
+          "Room": "TBC",
           "Speaker": {
-            "Name": "Luka Debeljak",
+            "Name": "Sarah Lean",
             "Organization": "Microsoft",
             "Description": "Luka Debeljak is the Cloud Infrastructure Sales Lead for the Asia Pacific Region (APAC), focused on selling hybrid and advanced cloud scenarios targeting Microsoft Azure. In his role, he is primarily responsible for rapid adoption of Microsoft’s Hybrid Cloud solutions with key Enterprise customers. He supports customers’ journey to the cloud by focusing on both public (Azure) and private cloud (Azure Stack), and Azure solutions supporting multi cloud management, business continuity and disaster recovery, security, application infrastructure optimization and networking.",
-            "ImageUrl": "https://raw.githubusercontent.com/punitganshani/azurebootcamp-data/master/2017/locations/singapore/Luka.jpg"
+            "ImageUrl": "https://github.com/weeyin83/globalazurebootcamp/blob/master/2018/azurebootcamp-data/2018/locations/glasgow/sarahlean.jpg"
           }
         },
         {
