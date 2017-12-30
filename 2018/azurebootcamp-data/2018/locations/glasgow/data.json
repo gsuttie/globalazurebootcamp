@@ -84,11 +84,7 @@
             "Organization": "Microsoft",
             "Description": "Sarah is a kick ass Woman in the Tech industry. Able to excel at seeing the big picture when engaging with customers and understanding their IT infrastructure needs. With experience of both on premises and cloud solutions she is able to guide customers on the most appropriate journey when is most relevant to them. When not tinkering with IT you’ll find Sarah behind a camera or practicing Tae Kwon Do.",
             "ImageUrl": "https://raw.githubusercontent.com/weeyin83/globalazurebootcamp/master/2018/azurebootcamp-data/2018/locations/glasgow/sarahlean.jpg",
-            "Social": {
-              "Twitter": "http://www.twitter.com/techielass",
-              "Website": "http://www.techielass.com",
-              "Facebook": "http://www.facebook.com/techielass"
-            }
+           }
         },
         {
           "SessionId": "Common3",
