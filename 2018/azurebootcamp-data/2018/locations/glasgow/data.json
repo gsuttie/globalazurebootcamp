@@ -97,14 +97,14 @@
           "Title": "TBC",
           "Room":  "22CF12",
           "Speaker": {
-            "Name": "Puneet Ghanshani",
-            "Organization": "Microsoft",
-            "Description": "Bots aren't introverts, but can they strike a meaningful conversation with you? This session will take you in a flight to building a Bot with natural language processing and an intelligence of a human, hosting it on Azure and accessing through a digital channel of your choice. Puneet an Architect in Microsoft, helps customers envision their digital journey, modernise enterprise technology landscape and build cloud and cross platform device apps. He has authored a book and 22+ articles in international magazines and spoken in 30+ conferences. He is active on www.ganshani.com and on MSDN blogs",
-            "ImageUrl": "https://raw.githubusercontent.com/punitganshani/azurebootcamp-data/master/2016/locations/singapore/punitganshani.jpg",
+            "Name": "Speaker 1",
+            "Organization": "TBC",
+            "Description": "Details to be confirmed.",
+            "ImageUrl": "https://raw.githubusercontent.com/weeyin83/globalazurebootcamp/master/2018/azurebootcamp-data/2018/locations/glasgow/generic-speaker.png",
             "Social": {
-              "Twitter": "http://www.twitter.com/ganshani",
-              "Website": "http://www.ganshani.com",
-              "Facebook": "http://www.facebook.com/PunitBGanshani"
+              "Twitter": "#",
+              "Website": "#",
+              "Facebook": "#"
             }
           }
         },
@@ -114,12 +114,14 @@
           "Title": "TBC",
           "Room": "22CF12",
           "Speaker": {
-            "Name": "Wely Lau",
-            "Organization": "Microsoft",
-            "Description": "This session will walk you through two serverless offering from Azure: Functions which enables you to host and execute your code and Logic Apps which is the managed-workflow on the cloud",
-            "ImageUrl": "https://media.licdn.com/media/AAEAAQAAAAAAAAtEAAAAJDU3ZDIxMjdiLTQzYTItNDQ2Mi1hNjY0LWVkMTgyODcxMjFiZQ.jpg",
+            "Name": "Speaker 2",
+            "Organization": "TBC",
+            "Description": "Details to be confirmed.",            
+            "ImageUrl": "https://raw.githubusercontent.com/weeyin83/globalazurebootcamp/master/2018/azurebootcamp-data/2018/locations/glasgow/generic-speaker.png",
             "Social": {
-              "Website": "http://wely-lau.net/"
+              "Twitter": "#",
+              "Website": "#",
+              "Facebook": "#"
             }
           }
         },
@@ -134,11 +136,14 @@
           "Title": "TBC",
           "Room": "22CF12",
           "Speaker": {
-            "Name": "Sohel Shekha",
+            "Name": "Speaker 3",
             "Organization": "MVP",
-            "Description": "Xamarin Mobile Lead",
-            "ImageUrl": "https://mvp.microsoft.com/en-us/PublicProfile/Photo/5002598",
+            "Description": "Details to be confirmed.",
+            "ImageUrl": "https://raw.githubusercontent.com/weeyin83/globalazurebootcamp/master/2018/azurebootcamp-data/2018/locations/glasgow/generic-speaker.png",
             "Social": {
+              "Twitter": "#",
+              "Website": "#",
+              "Facebook": "#"
             }
           }
         },
@@ -148,12 +153,14 @@
           "Title": "TBC",
           "Room": "22CF12",
           "Speaker": {
-            "Name": "Ben ishiyama-levy",
+            "Name": "Speaker 4",
             "Organization": "MVP",
-            "Description": "Visual Studio Mobile Center: This new platform aggregates tools from azure, and other mobile offerings under one brand. In this session, we'll dig each features in details and demo real life scenarios, Test (Xamarin TestCloud), Distribute (HockeyApp), Crashes (part of HockeyApp), Analytic (Xamarin Insights), Tables (Repository: Connected to Azure), Identity (Authentication: Connected to Azure)",
-            "ImageUrl": "https://mvp.microsoft.com/en-us/PublicProfile/Photo/5002408",
+            "Description": "Details to be confirmed.",
+            "ImageUrl": "https://raw.githubusercontent.com/weeyin83/globalazurebootcamp/master/2018/azurebootcamp-data/2018/locations/glasgow/generic-speaker.png",
             "Social": {
-              "Website": "https://mvp.microsoft.com/en-us/PublicProfile/5002408?fullName=ben%20%20ishiyama-levy"
+              "Twitter": "#",
+              "Website": "#",
+              "Facebook": "#"
             }
           }
         },
