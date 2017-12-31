@@ -67,16 +67,16 @@
   ],
   "Tracks": [
     {
-      "Name": "Developer Track",
+      "Name": "Bootcamp Track",
       "Sessions": [
         {
           "SessionId": "Common1",
-          "Time": "8:00 AM - 8:30 AM",
+          "Time": "10:00 AM -10:30 AM",
           "Title": "Registration"
         },
         {
           "SessionId": "Common2",
-          "Time": "8:30 AM - 9:00 AM",
+          "Time": "10:30 AM - 10:45 AM",
           "Title": "Keynote",
           "Room": "22CF12",
           "Speaker": {
@@ -92,14 +92,9 @@
           }
         },
         {
-          "SessionId": "Common3",
-          "Time": "9:00 AM - 9:15 AM",
-          "Title": "Break"
-        },
-        {
           "SessionId": "DEV1",
-          "Time": "9:15 AM - 10:15 AM",
-          "Title": "Intelligent Bots: Zero to One",
+          "Time": "10:45 AM - 11:45 AM",
+          "Title": "TBC",
           "Room":  "22CF12",
           "Speaker": {
             "Name": "Puneet Ghanshani",
@@ -115,8 +110,8 @@
         },
         {
           "SessionId": "DEV2",
-          "Time": "10:15 AM - 11:15 AM",
-          "Title": "Serverless Computing with Azure Functions and Logic Apps",
+          "Time": "11:45 AM - 12:45 AM",
+          "Title": "TBC",
           "Room": "22CF12",
           "Speaker": {
             "Name": "Wely Lau",
@@ -129,29 +124,14 @@
           }
         },
         {
-          "SessionId": "DEV3",
-          "Time": "11:15 AM - 12:15 PM",
-          "Title": "Using Azure Function to Build Serverless SharePoint App",
-          "Room": "22CF12",
-          "Speaker": {
-            "Name": "Riwut Libinuko",
-            "Organization": "MVP",
-            "Description": "In this session we will explore what is azure function and how we can leverage it to build serverless application. We will then use this serverless architecture to build customization for SharePoint modern apps.",
-            "ImageUrl": "https://raw.githubusercontent.com/punitganshani/azurebootcamp-data/master/2016/locations/singapore/Riwut-Libinoko.jpg",
-            "Social": {
-              "Website": "https://mvp.microsoft.com/en-us/PublicProfile/4024516?fullName=riwut%20libinuko"
-            }
-          }
-        },
-        {
           "SessionId": "Common4",
-          "Time": "12:15 PM - 1:15 PM",
+          "Time": "12:45 PM - 2:00 PM",
           "Title": "Lunch"
         },
         {
           "SessionId": "DEV4",
-          "Time": "1:15 PM - 2:15 PM",
-          "Title": "Using Azure Notification Hub with Xamarin",
+          "Time": "2:00 PM - 3:00 PM",
+          "Title": "TBC",
           "Room": "22CF12",
           "Speaker": {
             "Name": "Sohel Shekha",
@@ -163,14 +143,9 @@
           }
         },
         {
-          "SessionId": "Common5",
-          "Time": "2:15 PM - 2:30 PM",
-          "Title": "Break"
-        },
-        {
           "SessionId": "DEV5",
-          "Time": "2:30 PM - 3:30 PM",
-          "Title": "Azure.mobile.com - Xamarin & VS Mobile Services",
+          "Time": "3:00 PM - 4:00 PM",
+          "Title": "TBC",
           "Room": "22CF12",
           "Speaker": {
             "Name": "Ben ishiyama-levy",
@@ -183,38 +158,9 @@
           }
         },
         {
-          "SessionId": "DEV6",
-          "Time": "3:30 PM - 4:30 PM",
-          "Title": "Digital Transformation with Blockchain As A Service",
-          "Room": "22CF12",
-          "Speaker": {
-            "Name": "Ujjwal Kumar",
-            "Organization": "Microsoft",
-            "Description": "Ujjwal is Sr Technical Evangelist in Microsoft Singapore and he focuses on Azure",
-            "ImageUrl": "http://www.pgconnects.com/bangalore/wp-content/uploads/sites/6/2015/03/Ujjwal-Kumar-500x500.jpg",
-            "Social": {
-            }
-          }
-        },
-        {
-          "SessionId": "DEV7",
-          "Time": "4:30 PM - 5:30 PM",
-          "Title": "Containers on Azure",
-          "Room": "22CF12",
-          "Speaker": {
-            "Name": "Uli Hitzel",
-            "Organization": "Microsoft",
-            "Description": "Learn about Containers on Azure",
-            "ImageUrl": "https://www.linkedin.com/mpr/mpr/AAEAAQAAAAAAAAk6AAAAJDU3YjkxMTJhLTMyNjMtNDlmYy05ZGY3LTdhM2E4YWI5Mjk5Zg.jpg",
-            "Social": {
-              "Website": "http://linkedin.com/in/uhitzel"
-            }
-          }
-        },
-        {
           "SessionId": "Common6",
-          "Time": "5:30 PM - 6:00 PM",
-          "Title": "Closing & Luck Draw"
+          "Time": "4:00 PM - 5:00 PM",
+          "Title": "Closing & Prize Draw"
         }
       ]
     }
