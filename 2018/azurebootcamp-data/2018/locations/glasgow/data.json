@@ -31,6 +31,11 @@
         "Name": "Elmah",
         "Image": "https://raw.githubusercontent.com/weeyin83/globalazurebootcamp/master/2018/azurebootcamp-data/2018/locations/glasgow/elmah-io.png",
         "Link": "https://elmah.io/"
+      },
+      {
+        "Name": "Servent",
+        "Image": "https://raw.githubusercontent.com/weeyin83/globalazurebootcamp/master/2018/azurebootcamp-data/2018/locations/glasgow/servent.png",
+        "Link": "https://www.servent.co.uk/"
       }
   ],
   "Prizes": [
