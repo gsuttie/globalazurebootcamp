@@ -100,7 +100,7 @@
           "SessionId": "DEV1",
           "Time": "10:45 AM - 11:45 AM",
           "Title": "How to learn Azure and become certified",
-          "Room":  "22CF12",
+          "Room":  "This talk will cover how I went from knowing nothing about Azure to being exam ready.   It will cover how to learn Azure, where to find the latest up to date courses, how to find the exam content, by doing this you will learn a tonne of amazing Azure content and get hands on familiar with a wide array of arrays in Azure. So if you want to learn more about Azure and at the end of it get a certification to put on your resume join me and I'll show you how I learn Azure and how I became exam ready.",
           "Speaker": {
             "Name": "Gregor Suttie",
             "Organization": "TBC",
@@ -117,7 +117,7 @@
           "SessionId": "DEV2",
           "Time": "11:45 AM - 12:45 AM",
           "Title": "Azure Serverless Computing",
-          "Room": "22CF12",
+          "Room": "How to use Azure serverless computing for timer-based events web application with demo",
           "Speaker": {
             "Name": "Analben Mehta",
             "Organization": "NHS NSS",
@@ -139,7 +139,7 @@
           "SessionId": "DEV4",
           "Time": "2:00 PM - 3:00 PM",
           "Title": "Chatbots, Azure and MS Cognitve Services (LUIS)",
-          "Room": "22CF12",
+          "Room": "Building intelligent Chatbots in Azure with Microsoft Cognitve Services LUIS.",
           "Speaker": {
             "Name": "Jamie Maguire",
             "Organization": "TBC",
