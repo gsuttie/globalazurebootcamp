@@ -99,16 +99,16 @@
         {
           "SessionId": "DEV1",
           "Time": "10:45 AM - 11:45 AM",
-          "Title": "TBC",
+          "Title": "How to learn Azure and become certified",
           "Room":  "22CF12",
           "Speaker": {
-            "Name": "Speaker 1",
+            "Name": "Gregor Suttie",
             "Organization": "TBC",
-            "Description": "Details to be confirmed.",
-            "ImageUrl": "https://raw.githubusercontent.com/weeyin83/globalazurebootcamp/master/2018/azurebootcamp-data/2018/locations/glasgow/generic-speaker.png",
+            "Description": "Software Engineer/ DevOps / SRE, Continuous Improvement, fan of @Redgate, @Octopusdeploy, @FriendofRedgate @Docker keen golfer and @Azure fan boy.",
+            "ImageUrl": "https://raw.githubusercontent.com/weeyin83/globalazurebootcamp/master/2018/azurebootcamp-data/2018/locations/glasgow/gregorsuttie.png",
             "Social": {
-              "Twitter": "#",
-              "Website": "#",
+              "Twitter": "https://twitter.com/aanuwizard",
+              "Website": "https://aanuwizard.com/",
               "Facebook": "#"
             }
           }
@@ -116,13 +116,13 @@
         {
           "SessionId": "DEV2",
           "Time": "11:45 AM - 12:45 AM",
-          "Title": "TBC",
+          "Title": "Azure Serverless Computing",
           "Room": "22CF12",
           "Speaker": {
-            "Name": "Speaker 2",
-            "Organization": "TBC",
-            "Description": "Details to be confirmed.",            
-            "ImageUrl": "https://raw.githubusercontent.com/weeyin83/globalazurebootcamp/master/2018/azurebootcamp-data/2018/locations/glasgow/generic-speaker.png",
+            "Name": "Analben Mehta",
+            "Organization": "NHS NSS",
+            "Description": "12+ years of experience in enterprise software development and architecture, M.Eng in Computer Science.",            
+            "ImageUrl": "https://raw.githubusercontent.com/weeyin83/globalazurebootcamp/master/2018/azurebootcamp-data/2018/locations/glasgow/analbenmehta.png",
             "Social": {
               "Twitter": "#",
               "Website": "#",
@@ -138,16 +138,16 @@
         {
           "SessionId": "DEV4",
           "Time": "2:00 PM - 3:00 PM",
-          "Title": "TBC",
+          "Title": "Chatbots, Azure and MS Cognitve Services (LUIS)",
           "Room": "22CF12",
           "Speaker": {
-            "Name": "Speaker 3",
+            "Name": "Jamie Maguire",
             "Organization": "TBC",
-            "Description": "Details to be confirmed.",
-            "ImageUrl": "https://raw.githubusercontent.com/weeyin83/globalazurebootcamp/master/2018/azurebootcamp-data/2018/locations/glasgow/generic-speaker.png",
+            "Description": "15+ years exprience architecting and building solutions using the .NET stack. Into tech, web, code, AI, machine learning, business & startups.",
+            "ImageUrl": "https://raw.githubusercontent.com/weeyin83/globalazurebootcamp/master/2018/azurebootcamp-data/2018/locations/glasgow/jamiemaguire.png",
             "Social": {
-              "Twitter": "#",
-              "Website": "#",
+              "Twitter": "http://www.twitter.com/jamie_maguire1",
+              "Website": "http://www.jamiemaguire.net/",
               "Facebook": "#"
             }
           }
@@ -155,16 +155,20 @@
         {
           "SessionId": "DEV5",
           "Time": "3:00 PM - 4:00 PM",
-          "Title": "TBC",
+          "Title": "Azure Stack and the Hybrid Cloud: Modernise Applications Anywhere",
           "Room": "22CF12",
           "Speaker": {
-            "Name": "Speaker 4",
+            "Name": "Kenny Lowe",
             "Organization": "TBC",
-            "Description": "Details to be confirmed.",
-            "ImageUrl": "https://raw.githubusercontent.com/weeyin83/globalazurebootcamp/master/2018/azurebootcamp-data/2018/locations/glasgow/generic-speaker.png",
+            "Description": "Azure Stack MVP, Microsoft Cloud Solutions Architect at Pulsant UK
+
+            Kenny has worked in the Cloud and Hosting industry for the last decade, predominantly focused on Microsoft solutions. He currently holds the post of Microsoft Cloud Solutions Architect at Pulsant, the UK's leading service provider and Azure Stack vanguard.
+            
+            Named one of Scotland's top 40 under 40 innovators and entrepreneurs in Scotland in 2016, Kenny has made significant impact to Scotland's digital agenda by setting up and driving the first kids' Code Clubs in the country five years ago, helping build out to almost 500 such clubs now actively operating today in the country.",
+            "ImageUrl": "https://raw.githubusercontent.com/weeyin83/globalazurebootcamp/master/2018/azurebootcamp-data/2018/locations/glasgow/kennylowe.png",
             "Social": {
-              "Twitter": "#",
-              "Website": "#",
+              "Twitter": "http://www.twitter.com/KennyLowe",
+              "Website": "https://www.azurestack.tips/",
               "Facebook": "#"
             }
           }
