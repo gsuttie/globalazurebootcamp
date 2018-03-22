@@ -107,8 +107,8 @@
             "Description": "Software Engineer/ DevOps / SRE, Continuous Improvement, fan of @Redgate, @Octopusdeploy, @FriendofRedgate @Docker keen golfer and @Azure fan boy.",
             "ImageUrl": "https://raw.githubusercontent.com/weeyin83/globalazurebootcamp/master/2018/azurebootcamp-data/2018/locations/glasgow/gregorsuttie.png",
             "Social": {
-              "Twitter": "https://twitter.com/aanuwizard",
-              "Website": "https://aanuwizard.com/",
+              "Twitter": "#",
+              "Website": "#",
               "Facebook": "#"
             }
           }
@@ -122,10 +122,10 @@
             "Name": "Analben Mehta",
             "Organization": "NHS NSS",
             "Description": "12+ years of experience in enterprise software development and architecture, M.Eng in Computer Science.",            
-            "ImageUrl": "https://raw.githubusercontent.com/weeyin83/globalazurebootcamp/master/2018/azurebootcamp-data/2018/locations/glasgow/analbenmehta.png",
+            "ImageUrl": "https://raw.githubusercontent.com/weeyin83/globalazurebootcamp/blob/master/2018/azurebootcamp-data/2018/locations/glasgow/analbenmehta.jpg",
             "Social": {
-              "Twitter": "#",
-              "Website": "#",
+              "Twitter": "https://twitter.com/aanuwizard",
+              "Website": "https://aanuwizard.com/",
               "Facebook": "#"
             }
           }
