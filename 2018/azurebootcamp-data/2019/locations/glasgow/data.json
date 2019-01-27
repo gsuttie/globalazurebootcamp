@@ -1,0 +1,181 @@
+{
+  "Event": {
+    "Date": "27-04-2019"
+  },
+  "Location": {
+    "Name": "Glasgow",
+    "Latitude": 55.8606062,
+    "Longitude": -4.245606700000053,
+    "Address": "TBA"
+  },
+  "Social": {
+    "Eventbrite": "N/A"
+  },
+  "Callout": {
+    "Text": "N/A",
+    "Link": "N/A",
+    "Type": "N/A"
+  },
+  "Organizers": [
+    {
+      "Name": "Gregor Suttie",
+      "Social": {
+        "Email": "#",
+        "Twitter": "https://twitter.com/gregor_suttie?lang=en",
+        "Website": "https://gregorsuttie.com/"
+      }
+    }
+    
+  ],
+  "Sponsors": [
+    {
+        "Name": "TBA",
+        "Image": "https://raw.githubusercontent.com/AndrewLowrie/globalazurebootcamp/master/2018/azurebootcamp-data/2017/locations/singapore/comingsoon.png",
+        "Link": "N/A"
+      },
+      {
+        "Name": "TBA",
+        "Image": "https://raw.githubusercontent.com/AndrewLowrie/globalazurebootcamp/master/2018/azurebootcamp-data/2017/locations/singapore/comingsoon.png",
+        "Link": "N/A/"
+      }
+  ],
+  "Prizes": [
+{
+      "ImageUrl": "https://raw.githubusercontent.com/AndrewLowrie/globalazurebootcamp/master/2018/azurebootcamp-data/2017/locations/singapore/comingsoon.png",
+      "Link": "#",
+      "Name": "Coming Soon"
+    },
+    {
+      "ImageUrl": "https://raw.githubusercontent.com/AndrewLowrie/globalazurebootcamp/master/2018/azurebootcamp-data/2017/locations/singapore/comingsoon.png",
+      "Link": "#",
+      "Name": "Coming Soon"
+    },
+    {
+      "ImageUrl": "https://raw.githubusercontent.com/AndrewLowrie/globalazurebootcamp/master/2018/azurebootcamp-data/2017/locations/singapore/comingsoon.png",
+      "Link": "#",
+      "Name": "Coming Soon"
+    },
+    {
+      "ImageUrl": "https://raw.githubusercontent.com/AndrewLowrie/globalazurebootcamp/master/2018/azurebootcamp-data/2017/locations/singapore/comingsoon.png",
+      "Link": "#",
+      "Name": "Coming Soon"
+    },
+    {
+      "ImageUrl": "https://raw.githubusercontent.com/AndrewLowrie/globalazurebootcamp/master/2018/azurebootcamp-data/2017/locations/singapore/comingsoon.png",
+      "Link": "#",
+      "Name": "Coming Soon"
+    },
+    {
+      "ImageUrl": "https://raw.githubusercontent.com/AndrewLowrie/globalazurebootcamp/master/2018/azurebootcamp-data/2017/locations/singapore/comingsoon.png",
+      "Link": "#",
+      "Name": "Coming Soon"
+    }
+  ],
+  "Tracks": [
+    {
+      "Name": "Bootcamp Track",
+      "Sessions": [
+        {
+          "SessionId": "Common1",
+          "Time": "10:00 AM -10:30 AM",
+          "Title": "Registration"
+        },
+        {
+          "SessionId": "Common2",
+          "Time": "10:30 AM - 10:45 AM",
+          "Title": "TBC",
+          "Room": "Introduction",
+          "Speaker": {
+            "Name": "Gregor Suttie",
+            "Organization": "Sword IT Solutions",
+            "Description": "A head of digital services and published author, Gregor is known throughout the Glasgow tech scene and beyond for his Azure knowledge.",
+            "ImageUrl": "https://raw.githubusercontent.com/weeyin83/globalazurebootcamp/master/2018/azurebootcamp-data/2018/locations/glasgow/gregorsuttie.jpg",
+            "Social": {
+              "Twitter": "https://twitter.com/gregor_suttie?lang=en",
+              "Website": "http://www.techielass.com",
+              "Facebook": "http://www.facebook.com/techielass"
+            }
+          }
+        },
+        {
+          "SessionId": "DEV1",
+          "Time": "10:45 AM - 11:45 AM",
+          "Title": "TBA",
+          "Room":  "TBA",
+          "Speaker": {
+            "Name": "TBA",
+            "Organization": "n/a",
+            "Description": "n/a",
+            "ImageUrl": "https://raw.githubusercontent.com/AndrewLowrie/globalazurebootcamp/master/2018/azurebootcamp-data/2017/locations/singapore/comingsoon.png",
+            "Social": {
+              "Twitter": "#",
+              "Website": "#",
+              "Facebook": "#"
+            }
+          }
+        },
+        {
+          "SessionId": "DEV2",
+          "Time": "11:45 AM - 12:45 AM",
+          "Title": "TBA",
+          "Room": "TBA",
+          "Speaker": {
+            "Name": "TBA",
+            "Organization": "n/a",
+            "Description": "n/a",            
+            "ImageUrl": "https://raw.githubusercontent.com/AndrewLowrie/globalazurebootcamp/master/2018/azurebootcamp-data/2017/locations/singapore/comingsoon.png",
+            "Social": {
+              "Twitter": "#",
+              "Website": "#",
+              "Facebook": "#"
+            }
+          }
+        },
+        {
+          "SessionId": "Common4",
+          "Time": "12:45 PM - 2:00 PM",
+          "Title": "Lunch"
+        },
+        {
+          "SessionId": "DEV4",
+          "Time": "2:00 PM - 3:00 PM",
+          "Title": "TBA",
+          "Room": "TBA",
+          "Speaker": {
+            "Name": "TBA",
+            "Organization": "n/a",
+            "Description": "n/a",
+            "ImageUrl": "https://raw.githubusercontent.com/AndrewLowrie/globalazurebootcamp/master/2018/azurebootcamp-data/2017/locations/singapore/comingsoon.png",
+            "Social": {
+              "Twitter": "#",
+              "Website": "#",
+              "Facebook": "#"
+            }
+          }
+        },
+        {
+          "SessionId": "DEV5",
+          "Time": "3:00 PM - 4:00 PM",
+          "Title": "TBA",
+          "Room": "TBA",
+          "Speaker": {
+            "Name": "TBA",
+            "Organization": "n/a",
+            "Description": "n/a",
+            "ImageUrl": "https://raw.githubusercontent.com/AndrewLowrie/globalazurebootcamp/master/2018/azurebootcamp-data/2017/locations/singapore/comingsoon.png",
+            "Social": {
+              "Twitter": "#",
+              "Website": "#",
+              "Facebook": "#"
+            }
+          }
+        },
+        {
+          "SessionId": "Common6",
+          "Time": "4:00 PM - 5:00 PM",
+          "Title": "Closing & Prize Draw"
+        }
+      ]
+    }
+  ]
+}
