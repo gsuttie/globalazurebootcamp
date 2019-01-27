@@ -6,10 +6,10 @@
     "Name": "Glasgow",
     "Latitude": 55.8606062,
     "Longitude": -4.245606700000053,
-    "Address": "TBA"
+    "Address": "22 Montrose St, Glasgow G1 1RE"
   },
   "Social": {
-    "Eventbrite": "N/A"
+    "Eventbrite": "https://www.eventbrite.co.uk/e/global-azure-bootcamp-2019-glasgow-tickets-54291786194"
   },
   "Callout": {
     "Text": "N/A",
@@ -20,7 +20,7 @@
     {
       "Name": "Gregor Suttie",
       "Social": {
-        "Email": "#",
+        "Email": "gsuttie2001@hotmail.com",
         "Twitter": "https://twitter.com/gregor_suttie?lang=en",
         "Website": "https://gregorsuttie.com/"
       }
@@ -30,43 +30,43 @@
   "Sponsors": [
     {
         "Name": "TBA",
-        "Image": "https://raw.githubusercontent.com/AndrewLowrie/globalazurebootcamp/master/2018/azurebootcamp-data/2017/locations/singapore/comingsoon.png",
+        "Image": "https://raw.githubusercontent.com/AndrewLowrie/globalazurebootcamp/master/2018/azurebootcamp-data/2019/locations/glasgow/comingsoon.png",
         "Link": "N/A"
       },
       {
         "Name": "TBA",
-        "Image": "https://raw.githubusercontent.com/AndrewLowrie/globalazurebootcamp/master/2018/azurebootcamp-data/2017/locations/singapore/comingsoon.png",
+        "Image": "https://raw.githubusercontent.com/AndrewLowrie/globalazurebootcamp/master/2018/azurebootcamp-data/2019/locations/glasgow/comingsoon.png",
         "Link": "N/A/"
       }
   ],
   "Prizes": [
 {
-      "ImageUrl": "https://raw.githubusercontent.com/AndrewLowrie/globalazurebootcamp/master/2018/azurebootcamp-data/2017/locations/singapore/comingsoon.png",
+      "ImageUrl": "https://raw.githubusercontent.com/AndrewLowrie/globalazurebootcamp/master/2018/azurebootcamp-data/2019/locations/glasgow/comingsoon.png",
       "Link": "#",
       "Name": "Coming Soon"
     },
     {
-      "ImageUrl": "https://raw.githubusercontent.com/AndrewLowrie/globalazurebootcamp/master/2018/azurebootcamp-data/2017/locations/singapore/comingsoon.png",
+      "ImageUrl": "https://raw.githubusercontent.com/AndrewLowrie/globalazurebootcamp/master/2018/azurebootcamp-data/2019/locations/glasgow/comingsoon.png",
       "Link": "#",
       "Name": "Coming Soon"
     },
     {
-      "ImageUrl": "https://raw.githubusercontent.com/AndrewLowrie/globalazurebootcamp/master/2018/azurebootcamp-data/2017/locations/singapore/comingsoon.png",
+      "ImageUrl": "https://raw.githubusercontent.com/AndrewLowrie/globalazurebootcamp/master/2018/azurebootcamp-data/2019/locations/glasgow/comingsoon.png",
       "Link": "#",
       "Name": "Coming Soon"
     },
     {
-      "ImageUrl": "https://raw.githubusercontent.com/AndrewLowrie/globalazurebootcamp/master/2018/azurebootcamp-data/2017/locations/singapore/comingsoon.png",
+      "ImageUrl": "https://raw.githubusercontent.com/AndrewLowrie/globalazurebootcamp/master/2018/azurebootcamp-data/2019/locations/glasgow/comingsoon.png",
       "Link": "#",
       "Name": "Coming Soon"
     },
     {
-      "ImageUrl": "https://raw.githubusercontent.com/AndrewLowrie/globalazurebootcamp/master/2018/azurebootcamp-data/2017/locations/singapore/comingsoon.png",
+      "ImageUrl": "https://raw.githubusercontent.com/AndrewLowrie/globalazurebootcamp/master/2018/azurebootcamp-data/2019/locations/glasgow/comingsoon.png",
       "Link": "#",
       "Name": "Coming Soon"
     },
     {
-      "ImageUrl": "https://raw.githubusercontent.com/AndrewLowrie/globalazurebootcamp/master/2018/azurebootcamp-data/2017/locations/singapore/comingsoon.png",
+      "ImageUrl": "https://raw.githubusercontent.com/AndrewLowrie/globalazurebootcamp/master/2018/azurebootcamp-data/2019/locations/glasgow/comingsoon.png",
       "Link": "#",
       "Name": "Coming Soon"
     }
@@ -88,7 +88,7 @@
           "Speaker": {
             "Name": "Gregor Suttie",
             "Organization": "Sword IT Solutions",
-            "Description": "A head of digital services and published author, Gregor is known throughout the Glasgow tech scene and beyond for his Azure knowledge.",
+            "Description": "As head of digital services and published author, Gregor is known throughout the Glasgow tech scene and beyond for his Azure knowledge.",
             "ImageUrl": "https://raw.githubusercontent.com/weeyin83/globalazurebootcamp/master/2018/azurebootcamp-data/2018/locations/glasgow/gregorsuttie.jpg",
             "Social": {
               "Twitter": "https://twitter.com/gregor_suttie?lang=en",
@@ -106,7 +106,7 @@
             "Name": "TBA",
             "Organization": "n/a",
             "Description": "n/a",
-            "ImageUrl": "https://raw.githubusercontent.com/AndrewLowrie/globalazurebootcamp/master/2018/azurebootcamp-data/2017/locations/singapore/comingsoon.png",
+            "ImageUrl": "https://raw.githubusercontent.com/AndrewLowrie/globalazurebootcamp/master/2018/azurebootcamp-data/2019/locations/glasgow/comingsoon.png",
             "Social": {
               "Twitter": "#",
               "Website": "#",
@@ -123,7 +123,7 @@
             "Name": "TBA",
             "Organization": "n/a",
             "Description": "n/a",            
-            "ImageUrl": "https://raw.githubusercontent.com/AndrewLowrie/globalazurebootcamp/master/2018/azurebootcamp-data/2017/locations/singapore/comingsoon.png",
+            "ImageUrl": "https://raw.githubusercontent.com/AndrewLowrie/globalazurebootcamp/master/2018/azurebootcamp-data/2019/locations/glasgow/comingsoon.png",
             "Social": {
               "Twitter": "#",
               "Website": "#",
@@ -145,7 +145,7 @@
             "Name": "TBA",
             "Organization": "n/a",
             "Description": "n/a",
-            "ImageUrl": "https://raw.githubusercontent.com/AndrewLowrie/globalazurebootcamp/master/2018/azurebootcamp-data/2017/locations/singapore/comingsoon.png",
+            "ImageUrl": "https://raw.githubusercontent.com/AndrewLowrie/globalazurebootcamp/master/2018/azurebootcamp-data/2019/locations/glasgow/comingsoon.png",
             "Social": {
               "Twitter": "#",
               "Website": "#",
@@ -162,7 +162,7 @@
             "Name": "TBA",
             "Organization": "n/a",
             "Description": "n/a",
-            "ImageUrl": "https://raw.githubusercontent.com/AndrewLowrie/globalazurebootcamp/master/2018/azurebootcamp-data/2017/locations/singapore/comingsoon.png",
+            "ImageUrl": "https://raw.githubusercontent.com/AndrewLowrie/globalazurebootcamp/master/2018/azurebootcamp-data/2019/locations/glasgow/comingsoon.png",
             "Social": {
               "Twitter": "#",
               "Website": "#",
