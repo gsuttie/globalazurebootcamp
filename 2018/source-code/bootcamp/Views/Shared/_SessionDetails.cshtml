@@ -17,7 +17,7 @@
 <div class="agenda-event">
     <b>@Model.Title</b><br>
     <br/>
-    @Model.Room<br>
+    <div class="text-left">@Model.Room</div><br>
     @if (hasSpeaker)
     {
         @await Html.PartialAsync("_SessionSpeaker", Model.Speaker)
