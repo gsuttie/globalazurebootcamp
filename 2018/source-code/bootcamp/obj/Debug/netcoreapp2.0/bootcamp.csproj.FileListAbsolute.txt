@@ -18,3 +18,22 @@ c:\Users\rramo\Desktop\GAB2018\bootcamp\obj\Debug\netcoreapp2.0\bootcamp.Assembl
 c:\Users\rramo\Desktop\GAB2018\bootcamp\obj\Debug\netcoreapp2.0\bootcamp.AssemblyInfo.cs
 c:\Users\rramo\Desktop\GAB2018\bootcamp\obj\Debug\netcoreapp2.0\bootcamp.dll
 c:\Users\rramo\Desktop\GAB2018\bootcamp\obj\Debug\netcoreapp2.0\bootcamp.pdb
+C:\Users\gregors\source\repos\bootcamp\globalazurebootcamp\2018\source-code\bootcamp\bin\Debug\netcoreapp2.0\appsettings.Development.json
+C:\Users\gregors\source\repos\bootcamp\globalazurebootcamp\2018\source-code\bootcamp\bin\Debug\netcoreapp2.0\appsettings.json
+C:\Users\gregors\source\repos\bootcamp\globalazurebootcamp\2018\source-code\bootcamp\bin\Debug\netcoreapp2.0\bower.json
+C:\Users\gregors\source\repos\bootcamp\globalazurebootcamp\2018\source-code\bootcamp\bin\Debug\netcoreapp2.0\bundleconfig.json
+C:\Users\gregors\source\repos\bootcamp\globalazurebootcamp\2018\source-code\bootcamp\bin\Debug\netcoreapp2.0\config.json
+C:\Users\gregors\source\repos\bootcamp\globalazurebootcamp\2018\source-code\bootcamp\bin\Debug\netcoreapp2.0\Connected Services\Application Insights\ConnectedService.json
+C:\Users\gregors\source\repos\bootcamp\globalazurebootcamp\2018\source-code\bootcamp\bin\Debug\netcoreapp2.0\Models\sample.json
+C:\Users\gregors\source\repos\bootcamp\globalazurebootcamp\2018\source-code\bootcamp\bin\Debug\netcoreapp2.0\package.json
+C:\Users\gregors\source\repos\bootcamp\globalazurebootcamp\2018\source-code\bootcamp\bin\Debug\netcoreapp2.0\Properties\launchSettings.json
+C:\Users\gregors\source\repos\bootcamp\globalazurebootcamp\2018\source-code\bootcamp\bin\Debug\netcoreapp2.0\bootcamp.deps.json
+C:\Users\gregors\source\repos\bootcamp\globalazurebootcamp\2018\source-code\bootcamp\bin\Debug\netcoreapp2.0\bootcamp.runtimeconfig.json
+C:\Users\gregors\source\repos\bootcamp\globalazurebootcamp\2018\source-code\bootcamp\bin\Debug\netcoreapp2.0\bootcamp.runtimeconfig.dev.json
+C:\Users\gregors\source\repos\bootcamp\globalazurebootcamp\2018\source-code\bootcamp\bin\Debug\netcoreapp2.0\bootcamp.dll
+C:\Users\gregors\source\repos\bootcamp\globalazurebootcamp\2018\source-code\bootcamp\bin\Debug\netcoreapp2.0\bootcamp.pdb
+C:\Users\gregors\source\repos\bootcamp\globalazurebootcamp\2018\source-code\bootcamp\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\gregors\source\repos\bootcamp\globalazurebootcamp\2018\source-code\bootcamp\obj\Debug\netcoreapp2.0\bootcamp.AssemblyInfoInputs.cache
+C:\Users\gregors\source\repos\bootcamp\globalazurebootcamp\2018\source-code\bootcamp\obj\Debug\netcoreapp2.0\bootcamp.AssemblyInfo.cs
+C:\Users\gregors\source\repos\bootcamp\globalazurebootcamp\2018\source-code\bootcamp\obj\Debug\netcoreapp2.0\bootcamp.dll
+C:\Users\gregors\source\repos\bootcamp\globalazurebootcamp\2018\source-code\bootcamp\obj\Debug\netcoreapp2.0\bootcamp.pdb
